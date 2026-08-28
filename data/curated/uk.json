@@ -1,0 +1,22 @@
+[
+{"market":"UK","exchange":"LSE","ticker":"CW","company_name":"Cable & Wireless plc","delisting_date":"1998-09-30","delisting_type":"Merger (Mannesmann–C&W to form Vodafone)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"BA","company_name":"British Aerospace plc","delisting_date":"1999-08-31","delisting_type":"Merger (with Marconi to form BAE Systems)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"MCE","company_name":"Marconi plc","delisting_date":"2003-01-06","delisting_type":"Takeover (EADS)","notes":"Merged into EADS; BAE became EADS partner","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"RRT","company_name":"Railtrack Group plc","delisting_date":"2003-01-03","delisting_type":"Compulsory purchase (privatized into Network Rail)","notes":"Shares compulsorily acquired by UK Government","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"HGH","company_name":"Henderson Group plc","delisting_date":"2007-09-28","delisting_type":"Acquisition (Barclays)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"HTL","company_name":"Hilton Group plc","delisting_date":"2007-04-30","delisting_type":"Take-private (Blackstone, €6.2B)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"EM","company_name":"Emap plc","delisting_date":"2006-03-31","delisting_type":"Take-private (Pearson/National World deal context)","notes":"Verify exact date","source":"curated (public record, verify)"},
+{"market":"UK","exchange":"LSE","ticker":"GAL","company_name":"Galliford Try Corporation plc","delisting_date":"2011-01-31","delisting_type":"Take-private (Macquarie/Syfe consortium, £5.8B)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"GKN","company_name":"GKN plc","delisting_date":"2016-08-31","delisting_type":"Take-private (Cerberus Capital, ~£5B)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"JLP","company_name":"John Lewis Partnership (listed vehicle)","delisting_date":"2014-03-31","delisting_type":"Take-private (trust members)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"MNG","company_name":"M&G plc","delisting_date":"2016-09-30","delisting_type":"Take-private (Schroders plc)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"NXE","company_name":"National Express Group plc","delisting_date":"2016-10-31","delisting_type":"Take-private (UK Government, £586M)","notes":"Re-listed on LSE April 2021","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"O2","company_name":"O2 plc (British Telecom subsidiary)","delisting_date":"2009-05-29","delisting_type":"Acquisition (Telefónica)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"PF","company_name":"Premier Farnell plc","delisting_date":"2016-02-05","delisting_type":"Acquisition (Avnet, US$2.4B)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"SGA","company_name":"Saga Group plc","delisting_date":"2009-11-30","delisting_type":"Take-private (CVC Capital, £1.9B)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"SKM","company_name":"BSkyB plc","delisting_date":"2018-06-26","delisting_type":"Take-private (Comcast/21st Century Fox, £23.4B)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"GRN","company_name":"Granada plc","delisting_date":"2008-08-29","delisting_type":"Acquisition (BSkyB, £3.1B)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"TUI","company_name":"TUI plc","delisting_date":"2016-10-31","delisting_type":"Share exchange (into TUI AG, Germany)","notes":"TUI plc delisted; TUI AG (formerly delisted from FSE) continued","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"WDF","company_name":"World Duty Free Group plc","delisting_date":"2020-10-19","delisting_type":"Take-private (Airports Group consortium)","source":"curated (public record)"},
+{"market":"UK","exchange":"LSE","ticker":"WW","company_name":"Woolworths Group plc","delisting_date":"2008-09-12","delisting_type":"Administration (retailer collapse)","notes":"Shares cancelled in administration","source":"curated (public record)"}
+]

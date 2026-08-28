@@ -1,0 +1,9 @@
+[
+{"market":"DE","exchange":"Deutsche Boerse (Xetra)","ticker":"AIR","company_name":"Air Berlin plc","delisting_date":"2017-06-30","delisting_type":"Insolvency (delisting after insolvency filing)","notes":"Germany's former flag carrier; insolvency filed June 2017","source":"curated (public record)"},
+{"market":"DE","exchange":"Deutsche Boerse","ticker":"KUKA","company_name":"KUKA AG","delisting_date":"2016-08-31","delisting_type":"Acquisition (Midea Group, China)","source":"curated (public record)"},
+{"market":"DE","exchange":"Deutsche Boerse","ticker":"PRX","company_name":"Porsche AG","delisting_date":"2009-07-31","delisting_type":"Take-private (Volkswagen 100% ownership)","source":"curated (public record)"},
+{"market":"DE","exchange":"Deutsche Boerse","ticker":"TUI","company_name":"TUI AG","delisting_date":"2016-10-31","delisting_type":"Share exchange (into TUI plc, UK)","notes":"FSE listing retired; entity continues as TUI AG","source":"curated (public record)"},
+{"market":"DE","exchange":"Deutsche Boerse","ticker":"VBO","company_name":"Villeroy & Boch Holding AG","delisting_date":"2014-06-30","delisting_type":"Acquisition (KPS Capital Partners)","source":"curated (public record)"},
+{"market":"DE","exchange":"Deutsche Boerse","ticker":"WNI","company_name":"Wincor Nixdorf International AG","delisting_date":"2013-09-30","delisting_type":"Acquisition (Atos)","notes":"Deal completed 2014 after regulatory approval; delisted from Prime Standard 2013/2014","source":"curated (public record, verify)"},
+{"market":"DE","exchange":"Deutsche Boerse","ticker":"ALC","company_name":"Alcatel S.A. (Frankfurt listing)","delisting_date":"2006-12-31","delisting_type":"Merger (with Lucent to form Alcatel-Lucent)","notes":"French entity; FSE listing retired in merger","source":"curated (public record)"}
+]

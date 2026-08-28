@@ -1,0 +1,5 @@
+[
+{"market":"NL","exchange":"Euronext Amsterdam","ticker":"AHOL","company_name":"Ahold N.V.","delisting_date":"2016-01-29","delisting_type":"Merger (with Delhaize to form Ahold Delhaize)","source":"curated (public record)"},
+{"market":"NL","exchange":"Euronext Amsterdam","ticker":"UNL","company_name":"Unilever N.V.","delisting_date":"2010-04-30","delisting_type":"Listing restructuring (Dutch vehicle delisted; UK vehicle primary)","notes":"Unilever's Dutch shares delisted from Euronext Amsterdam; entity continues (Unilever PLC/NV)","source":"curated (public record)"},
+{"market":"NL","exchange":"Euronext Amsterdam","ticker":"RDSA","company_name":"Royal Dutch Shell (Dutch A-share, Euronext listing)","delisting_date":"2016-04-29","delisting_type":"ADR/dual listing withdrawal; full merger 2022","notes":"Euronext Amsterdam listing of Dutch shares retired 2016; RDSA/BSA merged into single Shell plc 2022","source":"curated (public record, verify)"}
+]
