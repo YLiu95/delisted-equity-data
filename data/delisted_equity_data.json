@@ -17,7 +17,7 @@
    "UK",
    "US"
   ],
-  "record_count": 2806,
+  "record_count": 2859,
   "columns": [
    "market",
    "exchange",
@@ -11962,6 +11962,18 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "1444",
+   "company_name": "ニッソウ",
+   "delisting_date": "2020-03-27",
+   "delisting_type": "Delisting (東証一部; reason not in source)",
+   "ticker_recycled": "yes",
+   "current_company_name": "Nissou Co.,Ltd.",
+   "notes": "ticker in use as of 2024-06-28 by the same (or renamed) company",
+   "source": "Rakuten Securities delisting archive (delisting_20201.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "1448",
    "company_name": "",
@@ -12190,6 +12202,18 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "1816",
+   "company_name": "安藤建設",
+   "delisting_date": "2013-03-26",
+   "delisting_type": "Merger (into 日本製紙 3863)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20131.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "1819",
    "company_name": "",
@@ -12358,14 +12382,26 @@
   },
   {
    "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "1906",
+   "company_name": "細田工務店",
+   "delisting_date": "2020-03-26",
+   "delisting_type": "Delisting (ＪＡＳＤＡＱ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20201.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "1906",
-   "company_name": "",
+   "company_name": "細田工務店",
    "delisting_date": "2020-03-27",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -12514,14 +12550,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "1983",
+   "company_name": "東芝プラントシステム",
+   "delisting_date": "2020-01-24",
+   "delisting_type": "Delisting (東証一部; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20201.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "1983",
-   "company_name": "",
+   "company_name": "東芝プラントシステム",
    "delisting_date": "2020-01-27",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -12562,15 +12610,15 @@
   },
   {
    "market": "JP",
-   "exchange": "TSE/JPX",
+   "exchange": "TSE",
    "ticker": "2006",
-   "company_name": "",
+   "company_name": "東福製粉",
    "delisting_date": "2016-01-25",
-   "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
+   "delisting_type": "Delisting (float market cap below minimum)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
-   "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
+   "notes": "",
+   "source": "ja.wikipedia TSE delisted list (snippet)"
   },
   {
    "market": "JP",
@@ -12595,6 +12643,30 @@
    "current_company_name": "",
    "notes": "Name from delisting DB | delisted on/after current-list snapshot 2024-06-28; recycle status not verifiable",
    "source": "https://github.com/learningihara1-arch/japan-delisted-companies-database (delisting DB 2023-2026)"
+  },
+  {
+   "market": "JP",
+   "exchange": "TSE",
+   "ticker": "2052",
+   "company_name": "協同飼料",
+   "delisting_date": "2014-09-25",
+   "delisting_type": "Share transfer (into フィード・ワンHD 2060)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20143.html) snippet"
+  },
+  {
+   "market": "JP",
+   "exchange": "TSE",
+   "ticker": "2056",
+   "company_name": "日本配合飼料",
+   "delisting_date": "2014-09-25",
+   "delisting_type": "Share transfer (into フィード・ワンHD 2060)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20143.html) snippet"
   },
   {
    "market": "JP",
@@ -12850,6 +12922,18 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "2322",
+   "company_name": "ＮＥＣフィールディング",
+   "delisting_date": "2014-07-24",
+   "delisting_type": "Delisted (東証一部; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20143.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "2344",
    "company_name": "平安レイサービス（株）",
@@ -12862,14 +12946,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE Prime",
+   "ticker": "2352",
+   "company_name": "ＷＯＷＷＯＲＬＤ",
+   "delisting_date": "2022-09-28",
+   "delisting_type": "Share transfer (into ＷＯＷ ＷＯＲＬＤ ＧＲＯＵＰ 5128)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20223.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "2352",
-   "company_name": "",
+   "company_name": "ＷＯＷＷＯＲＬＤ",
    "delisting_date": "2022-09-29",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -12886,14 +12982,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE Mothers",
+   "ticker": "2369",
+   "company_name": "メディビックグループ",
+   "delisting_date": "2015-10-06",
+   "delisting_type": "Delisting (sales below minimum)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "ja.wikipedia TSE delisted list (snippet)"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "2369",
-   "company_name": "",
+   "company_name": "メディビックグループ",
    "delisting_date": "2016-10-06",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -13054,14 +13162,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "2450",
+   "company_name": "一休",
+   "delisting_date": "2016-03-11",
+   "delisting_type": "Delisting (東証一部; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20161.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "2450",
-   "company_name": "",
+   "company_name": "一休",
    "delisting_date": "2016-03-14",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -13138,14 +13258,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "2580",
+   "company_name": "コカ・コーライーストジャパン",
+   "delisting_date": "2014-09-19",
+   "delisting_type": "Exchange transfer (名証一部→東証)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20143.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "2580",
-   "company_name": "",
+   "company_name": "コカ・コーライーストジャパン",
    "delisting_date": "2017-03-29",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -13222,14 +13354,26 @@
   },
   {
    "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "2658",
+   "company_name": "ウライ",
+   "delisting_date": "2016-02-24",
+   "delisting_type": "Delisting (ＪＡＳＤＡＱ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20161.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "2658",
-   "company_name": "",
+   "company_name": "ウライ",
    "delisting_date": "2016-02-25",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -13606,15 +13750,15 @@
   },
   {
    "market": "JP",
-   "exchange": "TSE/JPX",
+   "exchange": "JASDAQ",
    "ticker": "3043",
-   "company_name": "",
+   "company_name": "モジュレ",
    "delisting_date": "2016-11-01",
-   "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
+   "delisting_type": "Delisting (late securities report)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
-   "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
+   "notes": "",
+   "source": "ja.wikipedia TSE delisted list (snippet)"
   },
   {
    "market": "JP",
@@ -13762,14 +13906,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "3209",
+   "company_name": "カネヨウ",
+   "delisting_date": "2020-03-16",
+   "delisting_type": "Delisting (東証二部; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20201.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "3209",
-   "company_name": "",
+   "company_name": "カネヨウ",
    "delisting_date": "2020-03-17",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -13834,14 +13990,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE Mothers",
+   "ticker": "3251",
+   "company_name": "駐車場綜合研究所",
+   "delisting_date": "2016-02-19",
+   "delisting_type": "Delisting (モーターズ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20161.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "3251",
-   "company_name": "",
+   "company_name": "駐車場綜合研究所",
    "delisting_date": "2016-02-22",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -13858,14 +14026,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "3258",
+   "company_name": "ユニゾホールディングス",
+   "delisting_date": "2020-06-17",
+   "delisting_type": "Delisting (東証一部; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20202.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "3258",
-   "company_name": "",
+   "company_name": "ユニゾホールディングス",
    "delisting_date": "2020-06-18",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -13978,14 +14158,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE Mothers",
+   "ticker": "3325",
+   "company_name": "ケンコーコム",
+   "delisting_date": "2016-03-08",
+   "delisting_type": "Delisting (モーターズ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20161.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "3325",
-   "company_name": "",
+   "company_name": "ケンコーコム",
    "delisting_date": "2016-03-09",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -14002,15 +14194,39 @@
   },
   {
    "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "3331",
+   "company_name": "雑貨屋ブルドッグ",
+   "delisting_date": "2016-02-24",
+   "delisting_type": "Delisting (ＪＡＳＤＡＱ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20161.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "3331",
-   "company_name": "",
+   "company_name": "雑貨屋ブルドッグ",
    "delisting_date": "2016-02-25",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
+  },
+  {
+   "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "3335",
+   "company_name": "エー・ディ・エム (A.D.M.)",
+   "delisting_date": "2013-03-11",
+   "delisting_type": "Share exchange (into 加賀電子 8154)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20131.html) snippet"
   },
   {
    "market": "JP",
@@ -14062,6 +14278,18 @@
   },
   {
    "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "3361",
+   "company_name": "トーエル",
+   "delisting_date": "2013-03-04",
+   "delisting_type": "Delisted (JQ Standard; reason not in source)",
+   "ticker_recycled": "yes",
+   "current_company_name": "Toell Co.,Ltd.",
+   "notes": "ticker in use as of 2024-06-28 by the same (or renamed) company",
+   "source": "Rakuten Securities delisting archive (delisting_20131.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "3366",
    "company_name": "",
@@ -14098,14 +14326,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE Standard",
+   "ticker": "3390",
+   "company_name": "ＩＮＥＳＴ",
+   "delisting_date": "2022-09-28",
+   "delisting_type": "Share transfer (into ＩＮＥＳＴ 7111)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20223.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "3390",
-   "company_name": "",
+   "company_name": "ＩＮＥＳＴ",
    "delisting_date": "2022-09-29",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -14266,14 +14506,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "3545",
+   "company_name": "デファクトスタンダード",
+   "delisting_date": "2020-01-08",
+   "delisting_type": "Share exchange (into BEENOS 3328)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20201.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "3545",
-   "company_name": "",
+   "company_name": "デファクトスタンダード",
    "delisting_date": "2020-01-09",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -14362,14 +14614,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "3606",
+   "company_name": "レナウン",
+   "delisting_date": "2020-06-12",
+   "delisting_type": "Civil rehabilitation proceedings (insolvency)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20202.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "3606",
-   "company_name": "",
+   "company_name": "レナウン",
    "delisting_date": "2020-06-16",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -14734,14 +14998,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "3822",
+   "company_name": "ＭＩＮＯＲＩソリューションズ",
+   "delisting_date": "2020-01-20",
+   "delisting_type": "Delisting (東証一部; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20201.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "3822",
-   "company_name": "",
+   "company_name": "ＭＩＮＯＲＩソリューションズ",
    "delisting_date": "2020-01-21",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -14827,6 +15103,18 @@
    "current_company_name": "",
    "notes": "Name from delisting DB | delisted on/after current-list snapshot 2024-06-28; recycle status not verifiable",
    "source": "https://github.com/learningihara1-arch/japan-delisted-companies-database (delisting DB 2023-2026)"
+  },
+  {
+   "market": "JP",
+   "exchange": "TSE",
+   "ticker": "3893",
+   "company_name": "日本製紙G本社",
+   "delisting_date": "2013-03-26",
+   "delisting_type": "Merger (into 日本製紙 3863)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20131.html) snippet"
   },
   {
    "market": "JP",
@@ -15154,14 +15442,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "4217",
+   "company_name": "日立化成",
+   "delisting_date": "2020-06-18",
+   "delisting_type": "Merger (with 三菱化学; renamed 三菱ケミカル)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20202.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "4217",
-   "company_name": "",
+   "company_name": "日立化成",
    "delisting_date": "2020-06-19",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -15838,14 +16138,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "4695",
+   "company_name": "マイスターエンジニアリング",
+   "delisting_date": "2020-03-25",
+   "delisting_type": "Delisting (東証二部; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20201.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "4695",
-   "company_name": "",
+   "company_name": "マイスターエンジニアリング",
    "delisting_date": "2020-03-26",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -16522,14 +16834,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE Standard",
+   "ticker": "5387",
+   "company_name": "チヨダウーテ",
+   "delisting_date": "2022-07-26",
+   "delisting_type": "Delisting (東証Ｓ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20223.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "5387",
-   "company_name": "",
+   "company_name": "チヨダウーテ",
    "delisting_date": "2022-07-27",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -16810,6 +17134,18 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "5803",
+   "company_name": "フジクラ",
+   "delisting_date": "2013-03-19",
+   "delisting_type": "Exchange transfer (大証一部→東証; 名村造船所 7014 context)",
+   "ticker_recycled": "yes",
+   "current_company_name": "Fujikura Ltd.",
+   "notes": "ticker in use as of 2024-06-28 by the same (or renamed) company",
+   "source": "Rakuten Securities delisting archive (delisting_20131.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "5807",
    "company_name": "",
@@ -16870,14 +17206,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE Standard",
+   "ticker": "5907",
+   "company_name": "ＪＦＥコンテイナー",
+   "delisting_date": "2022-07-27",
+   "delisting_type": "Share exchange (into ＪＦＥスチール / JFEホールディングス)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20223.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "5907",
-   "company_name": "",
+   "company_name": "ＪＦＥコンテイナー",
    "delisting_date": "2022-07-28",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -17350,14 +17698,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "6256",
+   "company_name": "ニューフレアテクノロジー",
+   "delisting_date": "2020-03-27",
+   "delisting_type": "Delisting (ＪＡＳＤＡＱ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20201.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "6256",
-   "company_name": "",
+   "company_name": "ニューフレアテクノロジー",
    "delisting_date": "2020-03-30",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -17371,6 +17731,18 @@
    "current_company_name": "",
    "notes": "Name not resolved from available sources",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
+  },
+  {
+   "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "6260",
+   "company_name": "アドテックエンジニアリング",
+   "delisting_date": "2014-07-28",
+   "delisting_type": "Share exchange (into ウシオ電機 6925)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20143.html) snippet"
   },
   {
    "market": "JP",
@@ -17395,6 +17767,18 @@
    "current_company_name": "",
    "notes": "Name not resolved from available sources",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
+  },
+  {
+   "market": "JP",
+   "exchange": "Measuo/Nagoya",
+   "ticker": "6280",
+   "company_name": "名機製作所",
+   "delisting_date": "2016-02-24",
+   "delisting_type": "Share exchange (into 日本製鋼所 5631)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20161.html) snippet"
   },
   {
    "market": "JP",
@@ -17866,14 +18250,26 @@
   },
   {
    "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "6593",
+   "company_name": "ローヤル電機",
+   "delisting_date": "2016",
+   "delisting_type": "Delisting (ＪＱ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "kabudragon delisted list (snippet)"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "6593",
-   "company_name": "",
+   "company_name": "ローヤル電機",
    "delisting_date": "2016-05-27",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -18019,6 +18415,18 @@
    "current_company_name": "",
    "notes": "",
    "source": "ja.wikipedia delisted list (snippet)"
+  },
+  {
+   "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "6679",
+   "company_name": "サイレックス・テクノロジー",
+   "delisting_date": "2016",
+   "delisting_type": "Delisting (ＪＱ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "kabudragon delisted list (snippet)"
   },
   {
    "market": "JP",
@@ -18310,6 +18718,18 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "6833",
+   "company_name": "日本電産リード",
+   "delisting_date": "2014-09-25",
+   "delisting_type": "Share exchange (into 日本電産 6594)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20143.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "6839",
    "company_name": "",
@@ -18394,15 +18814,15 @@
   },
   {
    "market": "JP",
-   "exchange": "TSE/JPX",
+   "exchange": "JASDAQ",
    "ticker": "6891",
-   "company_name": "",
+   "company_name": "イーター電機工業",
    "delisting_date": "2016-07-25",
-   "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
+   "delisting_type": "Delisting (insolvency: liabilities exceed assets)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
-   "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
+   "notes": "",
+   "source": "ja.wikipedia TSE delisted list (snippet)"
   },
   {
    "market": "JP",
@@ -19066,14 +19486,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "7404",
+   "company_name": "昭和飛行機",
+   "delisting_date": "2020-04-17",
+   "delisting_type": "Delisting (東証二部; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20202.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "7404",
-   "company_name": "",
+   "company_name": "昭和飛行機",
    "delisting_date": "2020-04-20",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -19090,14 +19522,26 @@
   },
   {
    "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "7415",
+   "company_name": "新星堂",
+   "delisting_date": "2016-01-20",
+   "delisting_type": "Delisting (ＪＡＳＤＡＱ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20161.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "7415",
-   "company_name": "",
+   "company_name": "新星堂",
    "delisting_date": "2016-02-18",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -19318,14 +19762,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "7591",
+   "company_name": "エクセル",
+   "delisting_date": "2020-03-27",
+   "delisting_type": "Share exchange (into unlisted スティインデックス13, ¥1,610/share)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20201.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "7591",
-   "company_name": "",
+   "company_name": "エクセル",
    "delisting_date": "2020-03-30",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -19678,14 +20134,26 @@
   },
   {
    "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "7834",
+   "company_name": "マジェスティゴルフ",
+   "delisting_date": "2020-01-22",
+   "delisting_type": "Delisting (ＪＡＳＤＡＱ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20201.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "7834",
-   "company_name": "",
+   "company_name": "マジェスティゴルフ",
    "delisting_date": "2020-01-23",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -19702,14 +20170,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE Standard",
+   "ticker": "7838",
+   "company_name": "共立印刷",
+   "delisting_date": "2022-09-28",
+   "delisting_type": "Share exchange (into ＫＹＯＲＩＴＳＵ 7795)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20223.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "7838",
-   "company_name": "",
+   "company_name": "共立印刷",
    "delisting_date": "2022-09-29",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -19930,14 +20410,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE Standard",
+   "ticker": "7945",
+   "company_name": "コマニー",
+   "delisting_date": "2022-07-27",
+   "delisting_type": "Delisting (東証Ｓ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20223.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "7945",
-   "company_name": "",
+   "company_name": "コマニー",
    "delisting_date": "2022-07-28",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -20062,15 +20554,39 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "8044",
+   "company_name": "大都魚類",
+   "delisting_date": "2020-06-15",
+   "delisting_type": "Delisting (東証二部; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20202.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "8044",
-   "company_name": "",
+   "company_name": "大都魚類",
    "delisting_date": "2020-06-18",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
+  },
+  {
+   "market": "JP",
+   "exchange": "Nagoya",
+   "ticker": "8058",
+   "company_name": "三菱商事",
+   "delisting_date": "2020-06-22",
+   "delisting_type": "Exchange transfer (名証一部→東証)",
+   "ticker_recycled": "yes",
+   "current_company_name": "Mitsubishi Corporation",
+   "notes": "ticker in use as of 2024-06-28 by the same (or renamed) company",
+   "source": "Rakuten Securities delisting archive (delisting_20202.html) snippet"
   },
   {
    "market": "JP",
@@ -20098,15 +20614,15 @@
   },
   {
    "market": "JP",
-   "exchange": "TSE/JPX",
+   "exchange": "JASDAQ",
    "ticker": "8073",
-   "company_name": "",
+   "company_name": "ＭＡＧねっとホールディングス",
    "delisting_date": "2016-08-01",
-   "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
+   "delisting_type": "Delisting (insolvency: liabilities exceed assets)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
-   "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
+   "notes": "",
+   "source": "ja.wikipedia TSE delisted list (snippet)"
   },
   {
    "market": "JP",
@@ -20434,14 +20950,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "8251",
+   "company_name": "パルコ",
+   "delisting_date": "2020-03-17",
+   "delisting_type": "Delisting (東証一部; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20201.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "8251",
-   "company_name": "",
+   "company_name": "パルコ",
    "delisting_date": "2020-03-18",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -20686,6 +21214,18 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "8339",
+   "company_name": "東京都民銀行",
+   "delisting_date": "2014-09-25",
+   "delisting_type": "Share transfer (into 東京TYフィナンシャルグループ 7173)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20143.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "8342",
    "company_name": "",
@@ -20902,14 +21442,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "8396",
+   "company_name": "十八銀行",
+   "delisting_date": "2019-03-26",
+   "delisting_type": "Share exchange (into ふくおかＦＧ 8354)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20191.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "8396",
-   "company_name": "",
+   "company_name": "十八銀行",
    "delisting_date": "2019-03-27",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -21442,14 +21994,26 @@
   },
   {
    "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "8885",
+   "company_name": "ラ・アトレ",
+   "delisting_date": "2020-06-26",
+   "delisting_type": "Share transfer (into LAホールディングス 2986)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20202.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "8885",
-   "company_name": "",
+   "company_name": "ラ・アトレ",
    "delisting_date": "2020-06-29",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -21886,14 +22450,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "9277",
+   "company_name": "総合メディカルＨＤ",
+   "delisting_date": "2020-04-16",
+   "delisting_type": "Delisting (東証一部; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20202.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "9277",
-   "company_name": "",
+   "company_name": "総合メディカルＨＤ",
    "delisting_date": "2020-04-17",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -22342,14 +22918,26 @@
   },
   {
    "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "9736",
+   "company_name": "白青舎",
+   "delisting_date": "2016-01-20",
+   "delisting_type": "Delisting (ＪＡＳＤＡＱ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20161.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "9736",
-   "company_name": "",
+   "company_name": "白青舎",
    "delisting_date": "2016-01-21",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -22486,14 +23074,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "9826",
+   "company_name": "ＪＥＵＧＩＡ",
+   "delisting_date": "2020-04-14",
+   "delisting_type": "Delisting (東証二部; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20202.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "9826",
-   "company_name": "",
+   "company_name": "ＪＥＵＧＩＡ",
    "delisting_date": "2020-04-15",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -22510,14 +23110,26 @@
   },
   {
    "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "9836",
+   "company_name": "リーバイス",
+   "delisting_date": "2020-01-06",
+   "delisting_type": "Delisting (ＪＡＳＤＡＱ; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20201.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "9836",
-   "company_name": "",
+   "company_name": "リーバイス",
    "delisting_date": "2020-01-07",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -22546,14 +23158,26 @@
   },
   {
    "market": "JP",
+   "exchange": "TSE",
+   "ticker": "9870",
+   "company_name": "ハナテン",
+   "delisting_date": "2016-01-20",
+   "delisting_type": "Delisting (東証二部; reason not in source)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20161.html) snippet"
+  },
+  {
+   "market": "JP",
    "exchange": "TSE/JPX",
    "ticker": "9870",
-   "company_name": "",
+   "company_name": "ハナテン",
    "delisting_date": "2016-01-21",
    "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
+   "notes": "Name not resolved from available sources | name filled from curated/DB entry with same code",
    "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
   },
   {
@@ -22594,15 +23218,15 @@
   },
   {
    "market": "JP",
-   "exchange": "TSE/JPX",
+   "exchange": "JASDAQ",
    "ticker": "9898",
-   "company_name": "",
+   "company_name": "サハダイヤモンド",
    "delisting_date": "2016-11-01",
-   "delisting_type": "Delisted (type unknown for 2015-2022 codes)",
+   "delisting_type": "Delisting (share price below minimum)",
    "ticker_recycled": "no",
    "current_company_name": "",
-   "notes": "Name not resolved from available sources",
-   "source": "https://github.com/nogamoga/jp-delisted-codes (annual delisting codes, JPX)"
+   "notes": "",
+   "source": "ja.wikipedia TSE delisted list (snippet)"
   },
   {
    "market": "JP",
@@ -22675,6 +23299,18 @@
    "current_company_name": "",
    "notes": "Name from delisting DB | delisted on/after current-list snapshot 2024-06-28; recycle status not verifiable",
    "source": "https://github.com/learningihara1-arch/japan-delisted-companies-database (delisting DB 2023-2026)"
+  },
+  {
+   "market": "JP",
+   "exchange": "JASDAQ",
+   "ticker": "9931",
+   "company_name": "家族亭",
+   "delisting_date": "2014-07-28",
+   "delisting_type": "Share exchange (into H2Oリテイリング 8242)",
+   "ticker_recycled": "no",
+   "current_company_name": "",
+   "notes": "",
+   "source": "Rakuten Securities delisting archive (delisting_20143.html) snippet"
   },
   {
    "market": "JP",

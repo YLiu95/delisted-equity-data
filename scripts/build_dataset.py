@@ -310,14 +310,19 @@ def main():
     records += parse_jp()
     records += parse_kr()
     records += parse_curated()
-    # fill JP names for code-only records from any named JP record (curated/DB)
-    jp_names = {}
+    # JP: merge name-less code records with named records (same code; same date = drop duplicate)
+    jp_named_keys = set()
+    jp_code_names = {}
     for d in records:
         if d['market'] == 'JP' and d.get('company_name'):
-            jp_names[str(d['ticker']).zfill(4)] = d['company_name']
+            jp_code_names[str(d['ticker']).zfill(4)] = d['company_name']
+            jp_named_keys.add((str(d['ticker']).zfill(4), str(d.get('delisting_date') or '')[:10]))
+    records = [d for d in records if not (
+        d['market'] == 'JP' and not d.get('company_name') and
+        (str(d['ticker']).zfill(4), str(d.get('delisting_date') or '')[:10]) in jp_named_keys)]
     for d in records:
         if d['market'] == 'JP' and not d.get('company_name'):
-            nm = jp_names.get(str(d['ticker']).zfill(4))
+            nm = jp_code_names.get(str(d['ticker']).zfill(4))
             if nm:
                 d['company_name'] = nm
                 d['notes'] = (d.get('notes') + ' | ' if d.get('notes') else '') + 'name filled from curated/DB entry with same code'
