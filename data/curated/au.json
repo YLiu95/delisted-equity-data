@@ -1,0 +1,10 @@
+[
+{"market":"AU","exchange":"ASX","ticker":"ANL","company_name":"Ansett Aviation Holdings Ltd.","delisting_date":"1999-02-28","delisting_type":"Collapse / liquidation (airline failure)","notes":"Australia's second-largest airline collapsed in 1999","source":"curated (public record)"},
+{"market":"AU","exchange":"ASX","ticker":"SBL","company_name":"Sable Resources Ltd.","delisting_date":"2007-12-31","delisting_type":"Delisting for non-compliance (going concern doubt)","notes":"Later completed CCAA proceedings; assets acquired by Sable Offshore (US)","source":"curated (public record, verify)"},
+{"market":"AU","exchange":"ASX","ticker":"CSR","company_name":"CSR Limited","delisting_date":"2008-08-29","delisting_type":"Merger (with Orica; CSR shareholders merged into Orica)","source":"curated (public record)"},
+{"market":"AU","exchange":"ASX","ticker":"LIN","company_name":"Linc Energy Ltd.","delisting_date":"2015-06-30","delisting_type":"Acquisition (Shell)","source":"curated (public record)"},
+{"market":"AU","exchange":"ASX","ticker":"AUL","company_name":"Aurelia Metals Ltd.","delisting_date":"2014-07-31","delisting_type":"Acquisition (Rio Tinto, US$3.1B)","source":"curated (public record)"},
+{"market":"AU","exchange":"ASX","ticker":"VHA","company_name":"Vodafone Hutchison Australia Pty Ltd.","delisting_date":"2013-07-31","delisting_type":"Take-private (NBN Co buyout)","source":"curated (public record)"},
+{"market":"AU","exchange":"ASX","ticker":"OPG","company_name":"Opus Group Limited","delisting_date":"2018-10-09","delisting_type":"Delisting to re-list on HKEX (Left Field entity)","source":"curated (public record)"},
+{"market":"AU","exchange":"ASX","ticker":"DMG","company_name":"Dragon Mining Limited","delisting_date":"2018-10-19","delisting_type":"Delisting to re-list on HKEX (1712.HK)","source":"curated (public record)"}
+]

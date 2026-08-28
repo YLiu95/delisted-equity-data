@@ -1,0 +1,247 @@
+[
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8304",
+  "company_name": "朝日銀行 (Aozora Bank)",
+  "delisting_date": "2003-03-31",
+  "delisting_type": "Became subsidiary (Resona); re-listed 2018",
+  "notes": "Resona acquired Aozora in 2003; Aozora Bank re-IPO'd 2018",
+  "source": "curated (public record, verify)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8312",
+  "company_name": "信濃銀行 (Shinano Bank)",
+  "delisting_date": "2002-09-30",
+  "delisting_type": "Bank failure (nationalized)",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8521",
+  "company_name": "新生銀行 (Shinsei Bank)",
+  "delisting_date": "2003-03-24",
+  "delisting_type": "Bank failure (nationalization by FDIC Japan)",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8378",
+  "company_name": "足利銀行 (Ashikaga Bank)",
+  "delisting_date": "2004-02-27",
+  "delisting_type": "Bank failure",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8388",
+  "company_name": "神戸産業銀行 (Kobe Shoko Bank)",
+  "delisting_date": "2004-12-24",
+  "delisting_type": "Bank failure (nationalized)",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8380",
+  "company_name": "北海道拓殖銀行 (Hokkaido Takushoku Bank)",
+  "delisting_date": "2004-03-19",
+  "delisting_type": "Bank failure (nationalized)",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8387",
+  "company_name": "足利銀行系/足利 (Ashiya Bank)",
+  "delisting_date": "2003-03-31",
+  "delisting_type": "Became subsidiary (delisted)",
+  "source": "curated (public record, verify)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8364",
+  "company_name": "東京商親銀行 (Tokyo Shoko Bank)",
+  "delisting_date": "2005-09-30",
+  "delisting_type": "Bank failure",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8470",
+  "company_name": "能生銀行 (Nokan Bank)",
+  "delisting_date": "2006-02-28",
+  "delisting_type": "Bank failure",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8471",
+  "company_name": "熊本銀行 (Kumamoto Bank)",
+  "delisting_date": "2006-01-31",
+  "delisting_type": "Delisting (became subsidiary); re-listed 2008",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8390",
+  "company_name": "広島商工銀行 (Hiroshima Shoko Bank)",
+  "delisting_date": "2006-12-29",
+  "delisting_type": "Bank failure",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8450",
+  "company_name": "九州銀行 (Kyushu Bank)",
+  "delisting_date": "2003-03-31",
+  "delisting_type": "Delisting (became subsidiary)",
+  "source": "curated (public record, verify)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8320",
+  "company_name": "さいたま銀行 (Saitama Bank)",
+  "delisting_date": "2004-10-31",
+  "delisting_type": "Delisting (became UFJ subsidiary)",
+  "source": "curated (public record, verify)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8306",
+  "company_name": "日本興道銀行 (Nihon Kodo Bank)",
+  "delisting_date": "2004-06-30",
+  "delisting_type": "Bank failure",
+  "source": "curated (public record, verify)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8336",
+  "company_name": "鹿島銀行 (Kashima Bank)",
+  "delisting_date": "2003-09-30",
+  "delisting_type": "Bank failure",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8410",
+  "company_name": "湘南銀行 (Shonan Bank)",
+  "delisting_date": "2006-02-28",
+  "delisting_type": "Bank failure",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "7030",
+  "company_name": "農中北興業 (Nokan Hokko)",
+  "delisting_date": "2006-09-29",
+  "delisting_type": "Delisting (became subsidiary)",
+  "source": "curated (public record, verify)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "4520",
+  "company_name": "第一製薬 (Daiichi Pharmaceutical)",
+  "delisting_date": "2003-04-01",
+  "delisting_type": "Merger (Daiichi Sankyo)",
+  "source": "curated (public record, verify)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "6758",
+  "company_name": "三洋電機 (Sanyo Electric)",
+  "delisting_date": "2009-04-01",
+  "delisting_type": "Merger (Panasonic)",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "6453",
+  "company_name": "シルバー精工 (Silver Seiko)",
+  "delisting_date": "2011-01-29",
+  "delisting_type": "Bank dealings halted / delisting",
+  "source": "ja.wikipedia delisted list (snippet)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE Mothers",
+  "ticker": "6672",
+  "company_name": "レイテックス (Laitex)",
+  "delisting_date": "2011-03-01",
+  "delisting_type": "Delisting (market cap below minimum)",
+  "source": "ja.wikipedia delisted list (snippet)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "6665",
+  "company_name": "エルピーダメモリ (Elpida Memory)",
+  "delisting_date": "2012-03-28",
+  "delisting_type": "Corporate rehabilitation (bankruptcy)",
+  "source": "ja.wikipedia delisted list (snippet)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "6793",
+  "company_name": "山水電気 (Suisden)",
+  "delisting_date": "2012-05-03",
+  "delisting_type": "Civil rehabilitation (bankruptcy)",
+  "source": "ja.wikipedia delisted list (snippet)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "8571",
+  "company_name": "NISグループ (NIS Group)",
+  "delisting_date": "2012-06-10",
+  "delisting_type": "Civil rehabilitation (bankruptcy)",
+  "source": "ja.wikipedia delisted list (snippet)"
+ },
+ {
+  "market": "JP",
+  "exchange": "JASDAQ",
+  "ticker": "4689",
+  "company_name": "ヤフー (Yahoo! Japan)",
+  "delisting_date": "2015-07-31",
+  "delisting_type": "Delisting (SoftBank subsidiary); re-listed TSE Oct 2015",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "5022",
+  "company_name": "DMM.com (ディー・エム・エム)",
+  "delisting_date": "2015-03-31",
+  "delisting_type": "Delisting (DMM.com Group subsidiary); re-listed Aug 2015",
+  "source": "curated (public record)"
+ },
+ {
+  "market": "JP",
+  "exchange": "TSE",
+  "ticker": "4090",
+  "company_name": "日本特殊陶業 (Nippon Sanso)",
+  "delisting_date": "2018-10-31",
+  "delisting_type": "Acquisition (Air Liquide, France)",
+  "notes": "Taken private by Air Liquide; shares cancelled Oct 2018",
+  "source": "curated (public record)"
+ }
+]

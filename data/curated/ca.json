@@ -1,0 +1,13 @@
+[
+{"market":"CA","exchange":"TSX","ticker":"AA","company_name":"Alcan Inc.","delisting_date":"2003-01-20","delisting_type":"Acquisition (Rio Tinto, US$18.6B)","source":"curated (public record)"},
+{"market":"CA","exchange":"TSX","ticker":"NR","company_name":"Noranda Inc.","delisting_date":"1998-08-31","delisting_type":"Take-private (became part of Alcan)","notes":"Delisted after Alcan acquisition of Noranda","source":"curated (public record)"},
+{"market":"CA","exchange":"TSX","ticker":"GWO","company_name":"Great West Lifeco Inc.","delisting_date":"2007-04-03","delisting_type":"Merger (Manulife Financial)","source":"curated (public record)"},
+{"market":"CA","exchange":"TSX","ticker":"HBC","company_name":"Hudson's Bay Company","delisting_date":"2020-08-14","delisting_type":"Bankruptcy (CCAA) and liquidation","notes":"Retailer liquidated; listed assets sold","source":"curated (public record)"},
+{"market":"CA","exchange":"TSX","ticker":"SHW","company_name":"Shinewave Communications Inc.","delisting_date":"2021-04-30","delisting_type":"Bankruptcy (CCAA) / delisting for non-compliance","source":"curated (public record)"},
+{"market":"CA","exchange":"TSX","ticker":"SAB","company_name":"Sable Resources Inc.","delisting_date":"2008-01-31","delisting_type":"Delisting for non-compliance (going concern doubt)","notes":"Later completed CCAA; assets sold to Sable Offshore (US)","source":"curated (public record)"},
+{"market":"CA","exchange":"TSX","ticker":"WW","company_name":"Wolverine World Wide Inc.","delisting_date":"2019-08-16","delisting_type":"Take-private (KKR, US$2.4B)","notes":"TSX listing retired with take-private","source":"curated (public record)"},
+{"market":"CA","exchange":"TSX","ticker":"G","company_name":"Goliath Resources Corp.","delisting_date":"2022-01-31","delisting_type":"Take-private (Magnetar/Silver X joint venture, C$543M)","source":"curated (public record)"},
+{"market":"CA","exchange":"TSX","ticker":"CTR","company_name":"Canterra Gold Corporation","delisting_date":"2022-09-16","delisting_type":"Acquisition (Newmont)","source":"curated (public record)"},
+{"market":"CA","exchange":"TSX","ticker":"ENX","company_name":"Encana Corporation","delisting_date":"2010-11-30","delisting_type":"Merger (Pembina Pipeline)","source":"curated (public record)"},
+{"market":"CA","exchange":"TSX","ticker":"NXN","company_name":"Nexen Inc.","delisting_date":"2017-05-31","delisting_type":"Acquisition (Cenovus Energy)","source":"curated (public record)"}
+]

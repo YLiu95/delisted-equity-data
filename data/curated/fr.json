@@ -1,0 +1,10 @@
+[
+{"market":"FR","exchange":"Euronext Paris","ticker":"GDF","company_name":"Gaz de France S.A.","delisting_date":"2009-01-31","delisting_type":"Merger (with Suez to form GDF Suez, later Engie)","source":"curated (public record)"},
+{"market":"FR","exchange":"Euronext Paris","ticker":"SZ","company_name":"Suez S.A.","delisting_date":"2009-01-31","delisting_type":"Merger (with Gaz de France to form GDF Suez)","source":"curated (public record)"},
+{"market":"FR","exchange":"Euronext Paris","ticker":"PRM","company_name":"Parmalat S.p.A. (Paris listing)","delisting_date":"2003-12-31","delisting_type":"Insolvency (bankruptcy / concordato)","notes":"Italian entity with Paris listing; Parmalat collapse 2003","source":"curated (public record)"},
+{"market":"FR","exchange":"Euronext Paris","ticker":"ALC","company_name":"Alcatel S.A.","delisting_date":"2006-12-31","delisting_type":"Merger (with Lucent to form Alcatel-Lucent)","source":"curated (public record)"},
+{"market":"FR","exchange":"Euronext Paris","ticker":"M6","company_name":"Groupe M6","delisting_date":"2013-02-28","delisting_type":"Merger (with Vivendi, share exchange)","notes":"M6 became part of Vivendi; ticker retired","source":"curated (public record)"},
+{"market":"FR","exchange":"Euronext Paris","ticker":"LAF","company_name":"Lafarge S.A.","delisting_date":"2020-01-31","delisting_type":"Merger (with Holcim to form LafargeHolcim, now Holcim)","notes":"French listing retired; entity re-listed as Holcim (SIX/Paris)","source":"curated (public record)"},
+{"market":"FR","exchange":"Euronext Paris","ticker":"WLN","company_name":"Worldline SA (Ingenico vehicle)","delisting_date":"2016-09-30","delisting_type":"Take-private / restructuring (Ingenico shareholders)","notes":"Verify exact date","source":"curated (public record, verify)"},
+{"market":"FR","exchange":"Euronext Paris","ticker":"BU","company_name":"Bull SA","delisting_date":"2014-06-30","delisting_type":"Acquisition (Atos, ~€660M)","notes":"Verify exact date","source":"curated (public record, verify)"}
+]

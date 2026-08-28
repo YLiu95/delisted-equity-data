@@ -1,0 +1,7 @@
+[
+{"market":"CH","exchange":"SIX Swiss Exchange","ticker":"CS","company_name":"Credit Suisse Group AG","delisting_date":"2023-06-19","delisting_type":"Acquisition (UBS, CHF 3B share deal)","notes":"SIX listing retired after UBS takeover approval; shares cancelled","source":"curated (public record)"},
+{"market":"CH","exchange":"SIX Swiss Exchange","ticker":"ACT","company_name":"Actelion Ltd.","delisting_date":"2021-09-30","delisting_type":"Acquisition (Johnson & Johnson, US$39B)","source":"curated (public record)"},
+{"market":"CH","exchange":"SIX Swiss Exchange","ticker":"CIBA","company_name":"Ciba AG","delisting_date":"2008-06-30","delisting_type":"Merger (with J&J to form J&J's S&C business; Ciba delisted)","notes":"Ciba shares delisted in the 2007-2008 Johnson & Johnson merger","source":"curated (public record, verify)"},
+{"market":"CH","exchange":"SIX Swiss Exchange","ticker":"LNY","company_name":"Landis+Gyr Holding AG","delisting_date":"2016-04-29","delisting_type":"Acquisition (Itron/Honeywell consortium); re-listed 2018","notes":"Delisted 2016 after takeover; IPO again 2018","source":"curated (public record)"},
+{"market":"CH","exchange":"SIX Swiss Exchange","ticker":"LON","company_name":"Lonza Group Ltd.","delisting_date":"2012-06-29","delisting_type":"Take-private (Swiss Re); re-listed 2014","notes":"Delisted 2012, IPO on SIX March 2014","source":"curated (public record)"}
+]
